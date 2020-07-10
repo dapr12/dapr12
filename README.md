@@ -5,7 +5,10 @@
 
 
 -->
-I complete my PhD in Mathematical Sciences from the University of Manchester. Before coming to Manchester, I did a MSc in Statistics and Probability at Center for Mathematical Research (CIMAT)
+
+My name is Diego and I complete my PhD in Mathematical Sciences from the University of Manchester. 
+
+Before coming to Manchester, I did a MSc in Statistics and Probability at Center for Mathematical Research (CIMAT)
 
 Prior to this, I did a BSc in Applied Mathematics and Computer Science from the National Autonomous University of Mexico (UNAM).
 
@@ -15,6 +18,6 @@ Interests
 - Deep Learning 
 - Artificial Intelligence
 
-- 🔭 I’m currently working as Data Analyst in MSV and Research Associate at the University of Manchester 
+- 🔭 I’m currently working as Data Analyst in the Asset Management Team at MSV and Research Associate at the University of Manchester 
 - 🌱 I’m currently learning about PostgreSQL, Hardoop, Big Data. 
 - 😄 Pronouns: he/him/his
