@@ -14,10 +14,16 @@ Prior to this, I did a BSc in Applied Mathematics and Computer Science from the 
 
 Interests
 
+- Data Mining, Machine Learning and Deep Learning
+- Statistical Modeling and Testing
+- Data Visualization and Dashboarding
+- Social and Economic Data Analysis
+- Reproducible Analysis and Open Source Tools
 - Machine Learning 
-- Deep Learning 
-- Artificial Intelligence
 
-- 🔭 I’m currently working as Data Analyst in the Asset Management Team at MSV and Research Associate at the University of Manchester 
-- 🌱 I’m currently learning about PostgreSQL, Hardoop, Big Data. 
+- 🌱 I’m currently learning about PostgreSQL, Hardoop, and Big Data. 
 - 😄 Pronouns: he/him/his
+
+Let's Connect
+
+I'm always interested in collaborating on data science projects for social impact. If you have any ideas, feel free to reach out!
