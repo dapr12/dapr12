@@ -12,6 +12,8 @@ Before coming to Manchester, I did a MSc in Statistics and Probability at Center
 
 Prior to this, I did a BSc in Applied Mathematics and Computer Science from the National Autonomous University of Mexico (UNAM).
 
+I have more than 5 years of experience applying statistical modeling and machine learning techniques across various industries.
+
 Interests
 
 - Data Mining, Machine Learning and Deep Learning
@@ -20,6 +22,8 @@ Interests
 - Social and Economic Data Analysis
 - Reproducible Analysis and Open Source Tools
 - Machine Learning 
+
+What I am doing now? 
 
 - 🌱 I’m currently learning about PostgreSQL, Hardoop, and Big Data. 
 - 😄 Pronouns: he/him/his
